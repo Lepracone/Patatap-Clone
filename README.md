@@ -1,4 +1,4 @@
-# todo-app
+# Patatap Clone
 Patatap clone created as part of Udemy course - The Web Developer Bootcamp by Colt Steele.
 
 ## Live Demo
