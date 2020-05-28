@@ -8,7 +8,7 @@ To see the app in action, go to [Patatap Clone](https://ricardo-sousa-ferreira.g
 Press random alphabetic keys on your keyboard.
 
 ## Features
-- Creates a simple animation and sound on keyboard input
+- Creates a simple animation and sound on keyboard input.
 
 ## More info
  - Used paperjs to animate
