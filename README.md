@@ -4,7 +4,7 @@ Patatap clone created as part of Udemy course - The Web Developer Bootcamp by Co
 ## Live Demo
 To see the app in action, go to [Patatap Clone](https://ricardo-sousa-ferreira.github.io/Patatap-Clone/)
 
-### Instructions
+#### Instructions
 Press random alphabetic keys on your keyboard
 
 ## Features
